@@ -11,3 +11,9 @@ clicar com o botão direito no arquivo .html, selecionar a opção "Open with Li
 extr.html
 ```
 
+- Resultado:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/137025809-6e1d3079-b4b1-46cb-bd06-60f3f4774fcf.gif", width=900>
+</span>
+
