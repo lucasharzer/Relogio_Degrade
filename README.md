@@ -1,7 +1,7 @@
 # Relógio Degradê
 
 Relógio automático com efeito degradê na cor do fundo usando linear-gradiente com as cores: amarelo e laranja.
-Obs: necessário instalar a extensão Live Server.
+Obs: Necessário instalar a extensão Live Server para obter atualização em tempo real da aplicação.
 
 - Para abrir o projeto:
 
